@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Unit Circle Explorer (By Ahmed Said)",
+  "description": "An interactive tool for students to explore the unit circle. Visualize angles in degrees and radians, understand trigonometric functions (sine and cosine) as coordinates, and discover patterns like symmetry and periodicity. Features include draggable handle, snapping to key angles, animation, and educational overlays.",
+  "requestFramePermissions": []
+}
